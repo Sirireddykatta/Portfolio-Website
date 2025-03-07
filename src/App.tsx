@@ -136,7 +136,7 @@ function App() {
                 className="btn-primary"
               >
                 <Download size={20} />
-                <span>Download CV</span>
+                <span>Get Resume</span>
               </motion.button>
               <motion.a
                 whileHover={{ scale: 1.1 }}
